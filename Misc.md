@@ -1,0 +1,70 @@
+# All mix tools
+Tools collection from  intigriti's blog 
+
+- https://github.com/neex/ghostinthepdf	Add exploit in PDF
+- https://github.com/dorkerdevil/rpckiller	XML RPC Ping backc checker
+- https://github.com/wdahlenburg/CVESearch	CVE POC
+- https://desi-jarvis.medium.com/gcphound-a-swiss-army-knife-offensive-toolkit-for-google-cloud-platform-gcp-fb9e18b959b4	Google Cloud Enum
+- https://github.com/s0md3v/uro	Remove Dup URL 
+- https://github.com/wdahlenburg/interactsh-collaborator	OOB + project discover
+- https://github.com/mandatoryprogrammer/PaperChaser	Gogole PDF,Paper,sheet slids enum
+- https://github.com/vortexau/cdn//	IP belong to WAF of CDN
+- https://github.com/xm1k3/cent	Manage Nuclei Templates
+- https://github.com/honoki/wilson-cloud-respwnder	Burp colb. Alternative
+- https://github.com/tauh33dkhan/aioresolver	DNS Reolver
+- https://github.com/rvrsh3ll/TokenTactics	Azure JWT Token Manipulation Toolset
+- https://github.com/devcoinfet/Trello_dorker	Find Exposed Trlo board
+- https://github.com/amalmurali47/onaws	AWS Info 
+- https://github.com/adamtlangley/request_logger	Docker loffed for HTTP & DNS requests
+- https://github.com/mhaskar/DNSStager	Hide Payload in DNS
+- https://github.com/shabarkin/aws-enumerator	AWS Enum
+- https://github.com/SpiderLabs/masher	Decrpt password
+- https://github.com/WeAreCloudar/s3-account-search	AWS Ac. Finder
+- https://chrome.google.com/webstore/detail/spectroscope/idppnaadbabknjeaifkegolcciafchpp	Chrome Ex for fidnif specter
+- https://github.com/doyensec/regexploit	reDOS from Regexp
+- https://github.com/brandongalbraith/endgame	AWS online user creation
+- https://github.com/rotemreiss/uddup	removing redundant URLs from the output of recon tools like gau or waybackurls.
+- https://github.com/HACKE-RC/webdork	automate Google dorking
+- https://github.com/Dheerajmadhukar/Lilly	find the real IP behind CDNs/WAFs
+- https://github.com/s0md3v/ote	temporary email addresses and get OTPs in terminal
+- https://github.com/anasbousselham/fortiscan	 FortiGate SSL-VPN scanner & exp
+- https://github.com/pimps/JNDI-Exploit-Kit	JNDI Exploiter
+- https://github.com/m4ll0k/Bug-Bounty-Toolz/blob/master/antiburl.py	TomNomNom’s anti-burl, with advanced options
+- https://github.com/prisma-cloud/IAMFinder	AWS IAM Reconnaissance
+- https://github.com/Leoid/chru	 Fetch URLs, do segmentation then append endpoints for each path/route
+- https://github.com/epi052/feroxbuster	Forced browsing tool in Rust, similar to ffuf with a few notable differences
+- https://github.com/kleiton0x00/XSScope	XSS exploiter setup
+- https://twitter.com/honoki/status/1308054700512743424	POCs for cross-domain postMessage
+- https://github.com/ztgrace/mole	 identifying and exploiting out-of-band 
+- https://github.com/sameera-madushan/Mail-Swipe	Temporary mail creator
+- https://github.com/Tink2Hack/Mapboxapiscanner	mapbox api vuln checker
+- https://github.com/google/gke-auditor	Kubernetics misconfig chcker
+- https://github.com/chriskiehl/Gooey	Turn any partyhon cmd in GUI
+- https://github.com/ahmedcj/bufferover	Extracting DNS data from bufferover API
+- https://github.com/darkbitio/aws-recon	
+- https://github.com/ignis-sec/puff	Warns if a Web page performs port scanning, access to private IPs or DNS rebinding attacks
+- https://github.com/allyomalley/dnsobserver	detection of several types of blind vulnerabilities
+- https://github.com/Sh1Yo/rate-limit-checker	rate limit chcker
+- https://github.com/jimen0/differer	how URLs are parsed by different languages to brea kfilter
+- https://twitter.com/jobertabma/status/1257126413699670016	Paylaod encoder to bypass filters
+- https://github.com/dariusztytko/token-reverser	Word list generator to crack security tokens
+- https://github.com/evilcos/xssor2	Xss exploiter
+- https://github.com/stevemcilwain/quiver	Sort cut of CMd tools
+- https://github.com/epi052/recon-pipeline	Recon Crator
+- https://github.com/inguardians/peirates	Kunernatics Pentest
+- https://github.com/andrewjkerr/bug-bounty-in-a-box	OOB payload and callback generator
+- https://www.reconness.com/	Bug hunting management tool
+- https://github.com/Viralmaniar/XposedOrNot	Password finder comprising of ~850 million real time passwords
+- https://github.com/nikhil1232/Bucket-Flaws	S3 mis congif checker
+- https://github.com/StanFaas/DNSolver	parses a list of domains and returns a list of unique IP adresses
+- https://github.com/rekonnain/asscan	subnet scanner
+- https://github.com/3lpsy/boucanpy	Servers to identify Out of Band Resolution in Payloads
+- https://github.com/BitTheByte/Monitorizer	Subdoman mnitor
+- https://github.com/securityidiots/CollabOzark	rack SSRF, RCE, Blind XSS, XXE, External Resource Access payloads triggers
+- https://github.com/gehaxelt/Python-dsstore	parsing .DS_Store files and extracting file names
+- https://github.com/clirimemini/Keye	detect change in URL after period of time
+- https://github.com/ShawkyZ/CILeek	 token leaks in Travis-CI logs
+- https://github.com/Shashank-In/TravisLeaks	sensitive information from Travis CI
+- https://github.com/Damian89/CommandGenInterface	generates commands based on what you choose
+- https://github.com/root4loot/rescope	covert txt file in to burp scope project
+- https://gist.github.com/hateshape/2e671ea71d7c243fac7ebf51fb738f0a	.config post exploittaion
